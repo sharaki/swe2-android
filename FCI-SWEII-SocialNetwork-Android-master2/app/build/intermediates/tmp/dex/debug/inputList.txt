@@ -1,0 +1,2 @@
+C:\Users\Sharaki\AndroidStudioProjects\FCI-SWEII-SocialNetwork-Android-master2\app\build\intermediates\classes\debug
+C:\Users\Sharaki\AndroidStudioProjects\FCI-SWEII-SocialNetwork-Android-master2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-8685ad3aef02854f6571fbc6f14aeb8366065d4e.jar
